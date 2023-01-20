@@ -1,0 +1,2 @@
+file = open('text.txt', mode= 'r', endcoding='utf-8')
+print()
